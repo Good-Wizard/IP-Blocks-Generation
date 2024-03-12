@@ -1,0 +1,250 @@
+1. Afghanistan - AF
+2. Aland Islands - AX
+3. Albania - AL
+4. Algeria - DZ
+5. American Samoa - AS
+6. Andorra - AD
+7. Angola - AO
+8. Anguilla - AI
+9. Antarctica - AQ
+10. Antigua and Barbuda - AG
+11. Argentina - AR
+12. Armenia - AM
+13. Aruba - AW
+14. Australia - AU
+15. Austria - AT
+16. Azerbaijan - AZ
+17. Bahamas - BS
+18. Bahrain - BH
+19. Bangladesh - BD
+20. Barbados - BB
+21. Belarus - BY
+22. Belgium - BE
+23. Belize - BZ
+24. Benin - BJ
+25. Bermuda - BM
+26. Bhutan - BT
+27. Bolivia - BO
+28. Bonaire, Sint Eustatius and Saba - BQ
+29. Bosnia and Herzegovina - BA
+30. Botswana - BW
+31. Bouvet Island - BV
+32. Brazil - BR
+33. British Indian Ocean Territory - IO
+34. Brunei - BN
+35. Bulgaria - BG
+36. Burkina Faso - BF
+37. Burundi - BI
+38. Cambodia - KH
+39. Cameroon - CM
+40. Canada - CA
+41. Cape Verde - CV
+42. Cayman Islands - KY
+43. Central African Republic - CF
+44. Chad - TD
+45. Chile - CL
+46. China - CN
+47. Christmas Island - CX
+48. Cocos (Keeling) Islands - CC
+49. Colombia - CO
+50. Comoros - KM
+51. Congo - CG
+52. Cook Islands - CK
+53. Costa Rica - CR
+54. Croatia - HR
+55. Cuba - CU
+56. Curacao - CW
+57. Cyprus - CY
+58. Czech Republic - CZ
+59. Democratic Republic of the Congo - CD
+60. Denmark - DK
+61. Djibouti - DJ
+62. Dominica - DM
+63. Dominican Republic - DO
+64. Ecuador - EC
+65. Egypt - EG
+66. El Salvador - SV
+67. Equatorial Guinea - GQ
+68. Eritrea - ER
+69. Estonia - EE
+70. Eswatini - SZ
+71. Ethiopia - ET
+72. Falkland Islands (Malvinas) - FK
+73. Faroe Islands - FO
+74. Fiji - FJ
+75. Finland - FI
+76. France - FR
+77. French Guiana - GF
+78. French Polynesia - PF
+79. French Southern Territories - TF
+80. Gabon - GA
+81. Gambia - GM
+82. Georgia - GE
+83. Germany - DE
+84. Ghana - GH
+85. Gibraltar - GI
+86. Greece - GR
+87. Greenland - GL
+88. Grenada - GD
+89. Guadeloupe - GP
+90. Guam - GU
+91. Guatemala - GT
+92. Guernsey - GG
+93. Guinea - GN
+94. Guinea-Bissau - GW
+95. Guyana - GY
+96. Haiti - HT
+97. Heard Island and McDonald Islands - HM
+98. Holy See - VA
+99. Honduras - HN
+100. Hong Kong - HK
+101. Hungary - HU
+102. Iceland - IS
+103. India - IN
+104. Indonesia - ID
+105. Iran - IR
+106. Iraq - IQ
+107. Ireland - IE
+108. Isle of Man - IM
+109. Israel - IL
+110. Italy - IT
+111. Ivory Coast - CI
+112. Jamaica - JM
+113. Japan - JP
+114. Jersey - JE
+115. Jordan - JO
+116. Kazakhstan - KZ
+117. Kenya - KE
+118. Kiribati - KI
+119. Kosovo - XK
+120. Kuwait - KW
+121. Kyrgyzstan - KG
+122. Laos - LA
+123. Latvia - LV
+124. Lebanon - LB
+125. Lesotho - LS
+126. Liberia - LR
+127. Libya - LY
+128. Liechtenstein - LI
+129. Lithuania - LT
+130. Luxembourg - LU
+131. Macao - MO
+132. Madagascar - MG
+133. Malawi - MW
+134. Malaysia - MY
+135. Maldives - MV
+136. Mali - ML
+137. Malta - MT
+138. Marshall Islands - MH
+139. Martinique - MQ
+140. Mauritania - MR
+141. Mauritius - MU
+142. Mayotte - YT
+143. Mexico - MX
+144. Micronesia - FM
+145. Moldova - MD
+146. Monaco - MC
+147. Mongolia - MN
+148. Montenegro - ME
+149. Montserrat - MS
+150. Morocco - MA
+151. Mozambique - MZ
+152. Myanmar - MM
+153. Namibia - NA
+154. Nauru - NR
+155. Nepal - NP
+156. Netherlands - NL
+157. New Caledonia - NC
+158. New Zealand - NZ
+159. Nicaragua - NI
+160. Niger - NE
+161. Nigeria - NG
+162. Niue - NU
+163. Norfolk Island - NF
+164. North Korea - KP
+165. North Macedonia - MK
+166. Northern Mariana Islands - MP
+167. Norway - NO
+168. Oman - OM
+169. Pakistan - PK
+170. Palau - PW
+171. Palestine - PS
+172. Panama - PA
+173. Papua New Guinea - PG
+174. Paraguay - PY
+175. Peru - PE
+176. Philippines - PH
+177. Pitcairn - PN
+178. Poland - PL
+179. Portugal - PT
+180. Puerto Rico - PR
+181. Qatar - QA
+182. Reunion - RE
+183. Romania - RO
+184. Russia - RU
+185. Rwanda - RW
+186. Saint Barthelemy - BL
+187. Saint Helena, Ascension and Tristan da Cunha - SH
+188. Saint Kitts and Nevis - KN
+189. Saint Lucia - LC
+190. Saint Martin - MF
+191. Saint Pierre and Miquelon - PM
+192. Saint Vincent and the Grenadines - VC
+193. Samoa - WS
+194. San Marino - SM
+195. Sao Tome and Principe - ST
+196. Saudi Arabia - SA
+197. Senegal - SN
+198. Serbia - RS
+199. Seychelles - SC
+200. Sierra Leone - SL
+201. Singapore - SG
+202. Sint Maarten - SX
+203. Slovakia - SK
+204. Slovenia - SI
+205. Solomon Islands - SB
+206. Somalia - SO
+207. South Africa - ZA
+208. South Georgia and the South Sandwich Islands - GS
+209. South Korea - KR
+210. South Sudan - SS
+211. Spain - ES
+212. Sri Lanka - LK
+213. Sudan - SD
+214. Suriname - SR
+215. Svalbard and Jan Mayen - SJ
+216. Sweden - SE
+217. Switzerland - CH
+218. Syria - SY
+219. Taiwan - TW
+220. Tajikistan - TJ
+221. Tanzania - TZ
+222. Thailand - TH
+223. Timor-Leste - TL
+224. Togo - TG
+225. Tokelau - TK
+226. Tonga - TO
+227. Trinidad and Tobago - TT
+228. Tunisia - TN
+229. Turkey - TR
+230. Turkmenistan - TM
+231. Turks and Caicos Islands - TC
+232. Tuvalu - TV
+233. Uganda - UG
+234. Ukraine - UA
+235. United Arab Emirates - AE
+236. United Kingdom - GB
+237. United States - US
+238. United States Minor Outlying Islands - UM
+239. Uruguay - UY
+240. Uzbekistan - UZ
+241. Vanuatu - VU
+242. Venezuela - VE
+243. Vietnam - VN
+244. Virgin Islands, British - VG
+245. Virgin Islands, U.S. - VI
+246. Wallis and Futuna - WF
+247. Western Sahara - EH
+248. Yemen - YE
+249. Zambia - ZM
+250. Zimbabwe - ZW
